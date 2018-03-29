@@ -38,5 +38,9 @@ Ex:
 A cada evento **A** associamos um número real representado por **P(A)** denominado **Probabilidade de A**, que satisfaça os seguintes axiomas:
 * A1) 0 ≤ P(A) ≤ 1
 * A2) P(S) = 1
-* A3) P(A ∪ B)=P(A)+
+* A3) P(A ∪ B)=P(A)+P(B) (*Quando A e B são eventos excludentess, e.g., A ∩ B = ∅*)
+A probabilidade de A é geralmente enunciada por:
+   P(A)= NcassosFav/NcasosPossiveis
+  
+Sendo válida para espaços amostrais finitos
 
